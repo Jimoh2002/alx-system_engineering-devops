@@ -16,3 +16,4 @@
 # finder
 # counter
 # question
+# hider
