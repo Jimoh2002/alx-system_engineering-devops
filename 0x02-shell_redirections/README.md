@@ -8,3 +8,5 @@
 # school
 # writes the result of command
 # duplicate
+# deletes regular
+# deletes regular files
