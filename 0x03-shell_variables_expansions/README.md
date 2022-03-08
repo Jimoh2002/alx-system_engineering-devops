@@ -15,3 +15,4 @@
 # from base 10 to 16
 # encoding and decoding
 # prints other lines from input
+# add numbers stored in environment variables
