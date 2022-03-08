@@ -24,3 +24,4 @@ letter display
 # users and homes
 # empty
 # gif extensions
+# acrostic 
