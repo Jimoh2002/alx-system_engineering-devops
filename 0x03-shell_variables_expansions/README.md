@@ -10,3 +10,4 @@
 # prints the result of power divided by divide
 # prints the result of breath to the power of love
 # base 2 to 10
+# 12 combinations
