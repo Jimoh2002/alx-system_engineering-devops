@@ -7,3 +7,4 @@
 # iacta lines
 # school
 # writes the result of command
+# duplicate
