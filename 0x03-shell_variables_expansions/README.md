@@ -9,3 +9,4 @@
 # prints the result of a math plus some text
 # prints the result of power divided by divide
 # prints the result of breath to the power of love
+# base 2 to 10
