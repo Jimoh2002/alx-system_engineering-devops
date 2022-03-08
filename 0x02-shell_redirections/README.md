@@ -6,3 +6,4 @@
 # display first 10
 # iacta lines
 # school
+# writes the result of command
