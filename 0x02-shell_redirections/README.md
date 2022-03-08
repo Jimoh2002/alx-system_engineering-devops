@@ -10,3 +10,4 @@
 # duplicate
 # deletes regular
 # deletes regular files
+# counter
