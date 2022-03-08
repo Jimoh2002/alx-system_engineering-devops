@@ -7,3 +7,4 @@
 # creates a new local variable
 # creates a new global variable
 # prints the result of a math plus some text
+# prints the result of power divided by divide
