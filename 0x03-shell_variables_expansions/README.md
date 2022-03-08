@@ -13,3 +13,4 @@
 # 12 combinations
 # prints a number with 2 decimal places
 # from base 10 to 16
+# encoding and decoding
