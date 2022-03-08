@@ -17,3 +17,4 @@
 # counter
 # question
 # hider
+letter display
