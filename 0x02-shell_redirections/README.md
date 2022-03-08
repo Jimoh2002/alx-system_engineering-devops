@@ -23,3 +23,4 @@ letter display
 # reverser
 # users and homes
 # empty
+# gif extensions
