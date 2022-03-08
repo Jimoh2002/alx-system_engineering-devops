@@ -11,3 +11,4 @@
 # prints the result of breath to the power of love
 # base 2 to 10
 # 12 combinations
+# prints a number with 2 decimal places
