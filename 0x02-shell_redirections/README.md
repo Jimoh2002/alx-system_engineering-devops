@@ -2,4 +2,5 @@
 # confused smiley
 # display content
 # display multiple contents
-# dispay last 10 lines
+# display last 10 lines
+# display first 10
